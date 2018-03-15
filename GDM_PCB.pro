@@ -1,4 +1,4 @@
-update=3/15/2018 2:29:49 PM
+update=3/15/2018 2:55:19 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=myLibrary/arduino_nano
 LibName34=myLibrary/kingbrightsc08
+LibName35=myLibrary/MCU_ST_STM32
